@@ -9,5 +9,5 @@ header.dashboard-header {
 
 header.dashboard-header nav #header {
   background-size: 50px 40px !important;
-  background-image: url("https://github.com/hougie/styling-demo/blob/c4f025ae9e80130ea9300987a75972e7cf7fde79/sym-logo.png") !important;
+  background-image: url("https://raw.githubusercontent.com/hougie/styling-demo/main/sym-logo.png") !important;
 }
