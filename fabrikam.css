@@ -12,6 +12,6 @@ header.dashboard-header nav #header {
   background-image: url("https://raw.githubusercontent.com/hougie/styling-demo/main/sym-logo.png") !important;
 }
 
-.user-info .user-info-field-title[value="Identity"] {
+.user-info-field-title {
   display: none;
 }
