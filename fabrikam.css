@@ -11,3 +11,7 @@ header.dashboard-header nav #header {
   background-size: 50px 40px !important;
   background-image: url("https://raw.githubusercontent.com/hougie/styling-demo/main/sym-logo.png") !important;
 }
+
+div.user-info-field-title:contains("Identity") {
+  display: none;
+}
